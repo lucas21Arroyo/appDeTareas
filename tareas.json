@@ -1,0 +1,14 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "TERMINADA"
+    },
+    {
+        "titulo": "Armar app de tareas",
+        "estado": "EN PROGRESO"
+    },
+    {
+        "titulo":"Jugar videojuegos",
+        "estado": "PENDIENTE"
+    }
+]
